@@ -35,8 +35,7 @@ Amazon Landing Page Clone using HTML &amp; CSS This is a static clone of the Ama
 ## 👨‍💻 Author
 
 **Eklavya Singh**  
-[GitHub Profile](https://github.com/Eklavyasingh7)
 [LinkedIn](https://www.linkedin.com/in/eklavya-singh-80683b33a)
----
+
 
 > 📌 This project is for educational and practice purposes only. It is not affiliated with Amazon in any way.
